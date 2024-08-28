@@ -32,8 +32,8 @@ mediante el cual se lograron identificar 3 puntos clave a tomar en cuenta:
 	3.-	Se observa que los meses con mayor venta Septiembre y  Noviembre - Diciembre debido al 
  		Black Friday/Navidad después de observa que las ventas tienden a la baja en los primeros
    		meses del siguiente año (Enero-Febrero-Marzo...).
-     		Revisar con el departamento de marketing promocionar descuentos u otras estrategias 
-       		para mejorar la venta en esos meses más bajos
+     		Revisar con el departamento de marketing promocionar descuentos u otras estrategias para
+       		mejorar la venta en esos meses más bajos
   ![4](https://github.com/user-attachments/assets/f4e2b3b5-6512-4f0a-946c-6795daa5e4cb)
 
 		
